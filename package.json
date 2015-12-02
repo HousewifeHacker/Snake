@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HousewifeHacker/Snake.git"
+  },
+  "author": "Jessie Anderson",
+  "license": "ISC",
+  "homepage": "https://github.com/HousewifeHacker/Snake#readme",
+  "dependencies": {
+    "jquery": "2.1.4"
+  },
+  "devDependencies": {
+    "babel": "6.1.18",
+    "babel-core": "6.2.1",
+    "babel-loader": "6.2.0",
+    "babel-preset-es2015": "6.1.18",
+    "webpack": "1.12.9"
+  }
+}
